@@ -1,6 +1,15 @@
 ![68747470733a2f2f692e6962622e636f2f5452354c57397a2f696d6167652e706e67](https://github.com/MariaBonkova/gpt3/assets/120118418/de8ffac9-d6a6-4ccd-9808-f2d5c645cdf9)
 
+This is a code repository,where I practice using React.
+Alongside building the website, I use:
 
+React Functional components and their reusability
+React file and folder structure
+Fundamental CSS properties to master flex & grid
+Fundamentals of the CSS BEM Model
+From soft and pleasant animations to complex gradients
+Perfectly placed media queries for satisfactory responsiveness covering almost devices
+And at the end you'll learn how to deploy your websites to extremely fast servers and give them a custom domain name.
 
 
 # Getting Started with Create React App
